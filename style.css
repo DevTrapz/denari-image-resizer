@@ -4,8 +4,8 @@
 }
 
 img {
-  padding: 25px;
   border-radius: 25px;
+  width: 85%;
   min-width: 200px;
   max-width: 350px;
 }
